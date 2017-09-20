@@ -1,0 +1,72 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#photo,
+#video,
+#code,
+#music,
+#web,
+#skills,
+#contact {
+  display:none;
+}
+
+#photo:target,
+#video:target,
+#code:target,
+#music:target,
+#web:target,
+#skills:target,
+#contact:target {
+  display:block;
+}
+
+h1 {
+  margin-top: 10%;
+  font-weight: 300;
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 3em;
+}
+
+a {
+  color:black;
+  text-decoration:none;
+}
+
+.icons {
+  text-align: center;
+  width:70%;
+  overflow: auto;
+  /*display: inline-block;*/
+  *display: inline;
+  margin: 10px auto;
+}
+
+.icons a {
+  /*float:left;*/
+  display: inline-block;
+  text-align: center;
+  /*width: 10%;*/
+  margin: 12px 0;
+  transition: all 0.3s ease;
+  font-size: 1em;
+  color:black;
+  opacity: 0.65;
+  font-weight: 300;
+}
+
+.icons a:hover {
+  opacity: 1;
+}
+
+figcaption {
+  opacity: 0;
+  transition: all 0.4s ease;
+  margin-top: 10px;
+}
+
+.icons a:hover figcaption {
+  opacity: 0.65;
+}
