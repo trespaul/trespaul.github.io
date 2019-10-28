@@ -1,2 +1,3 @@
-# trespaul.github.io
-My GitHub User Page.
+# Source of PaulJ.tk
+
+This is the Hugo source for PaulJ.tk.

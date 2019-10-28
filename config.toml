@@ -1,0 +1,16 @@
+baseURL = "http://paulj.tk/"
+languageCode = "en-za"
+title = "Paul J"
+theme = "hyde"
+disqusShortname = "pauljtk"
+#googleAnalytics = "Your tracking code"
+
+#[Menus]
+#  main = [
+#      {Name = "Github", URL = "https://github.com/username/"},
+#      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+#  ]
+
+[params]
+    author = "Paul Joubert"
+    description = "Hi there! This is my base on the internet. Here are a few things that you might need or find useful."
