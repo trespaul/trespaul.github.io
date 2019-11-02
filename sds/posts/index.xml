@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Students for a Democratic Society</title>
+    <link>http://paulj.tk/sds/posts/</link>
+    <description>Recent content in Updates on Students for a Democratic Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Dec 2018 22:30:56 +0100</lastBuildDate>
+    
+	<atom:link href="http://paulj.tk/sds/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://paulj.tk/sds/posts/test/</link>
+      <pubDate>Fri, 07 Dec 2018 22:30:56 +0100</pubDate>
+      
+      <guid>http://paulj.tk/sds/posts/test/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam. Sapien nec sagittis aliquam malesuada bibendum. Velit dignissim sodales ut eu sem integer vitae justo. Vulputate sapien nec sagittis aliquam malesuada bibendum. Eu ultrices vitae auctor eu augue ut. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Mauris in aliquam sem fringilla. Sed faucibus turpis in eu mi bibendum.</description>
+    </item>
+    
+  </channel>
+</rss>

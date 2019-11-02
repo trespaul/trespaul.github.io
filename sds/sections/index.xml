@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Students for a Democratic Society</title>
+    <link>http://paulj.tk/sds/sections/</link>
+    <description>Recent content in Sections on Students for a Democratic Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://paulj.tk/sds/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who we are</title>
+      <link>http://paulj.tk/sds/sections/section1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://paulj.tk/sds/sections/section1/</guid>
+      <description>Students for a Democratic Society formed from students who question the given status quo and the concepts that accompany it. We realise that the &amp;ldquo;default&amp;rdquo; conception of the world necessarily work to the benefit of certain people, and to the detriment of others. We believe that critical inquiry into these hegemonic concepts is necessary, and that they must be deconstructed and the concepts reclaimed into an emancipatory project. We consider ourselves &amp;ldquo;radicals&amp;rdquo; in the sense that we vow to address problems at their roots, and that we believe superficial temporary solutions are not good enough.</description>
+    </item>
+    
+    <item>
+      <title>Our goals</title>
+      <link>http://paulj.tk/sds/sections/section2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://paulj.tk/sds/sections/section2/</guid>
+      <description>SDS aims to enable people to analyse and scrutinise their given preconceptions of society. We want to equip people with the necessary analytical tools to critically evaluate the function of different elements in society. We want to demystify academic concepts and make them accessible to the average student. We also aim to organise ourselves in a prefigurative horizontal manner, consistent with our vision.</description>
+    </item>
+    
+    <item>
+      <title>Our vision</title>
+      <link>http://paulj.tk/sds/sections/section3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://paulj.tk/sds/sections/section3/</guid>
+      <description>The members of SDS envision a future where society is structured to care for the individual, where individuals are not forced to adapt to a malignant social structure, and where everyone&amp;rsquo;s fundamental human needs are fulfilled. We envision a world where everyone can have compassion for their fellow humans, and for the environment in which we reside. We envision a society where damaging structures of society can be eradicated as fast as possible, as soon as they are identified.</description>
+    </item>
+    
+  </channel>
+</rss>
