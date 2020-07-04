@@ -1,16 +1,51 @@
 baseURL = "http://paulj.tk/"
 languageCode = "en-za"
 title = "Paul J"
-theme = "hyde"
+copyright = "© {year}"
+theme = "codex"
 disqusShortname = "pauljtk"
 #googleAnalytics = "Your tracking code"
 
-#[Menus]
-#  main = [
-#      {Name = "Github", URL = "https://github.com/username/"},
-#      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
-#  ]
-
 [params]
     author = "Paul Joubert"
-    description = "Hi there! This is my base on the internet. Here are a few things that you might need or find useful."
+    dateFormat = "2006-01-02"
+
+    email = "mailto:hello@paulj.tk"
+    twitter = "https://twitter.com/_trespaul"
+    instagram = "https://instagram.com/_trespaul"
+    github = "https://github.com/_trespaul"
+
+    iconTitles = ["Email", "Twitter", "Instagram", "GitHub"]
+
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+      identifier = "home"
+      name = "home"
+      title = "home"
+      url = "/"
+      weight = 1
+  
+  [[menu.main]]
+      identifier = "about"
+      name = "about"
+      title = "About"
+      url = "/about"
+      weight = 2
+  
+#  [[menu.main]]
+#      identifier = "posts"
+#      name = "posts"
+#      title = "Posts"
+#      url = "/posts"
+#      weight = 3
+
