@@ -4,7 +4,7 @@ title = "Paul J"
 copyright = "© {year}"
 theme = "codex"
 disqusShortname = "pauljtk"
-#googleAnalytics = "Your tracking code"
+googleAnalytics = "UA-40164851-6"
 
 [params]
     author = "Paul Joubert"
