@@ -6,11 +6,7 @@
     <description>Recent content on Paul J</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-za</language>
-    <copyright>© {year}</copyright>
-    
-	<atom:link href="http://paulj.tk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© {year}</copyright><atom:link href="http://paulj.tk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://paulj.tk/about/</link>
