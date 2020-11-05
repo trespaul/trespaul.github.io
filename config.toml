@@ -13,9 +13,15 @@ googleAnalytics = "UA-40164851-6"
     email = "mailto:hello@paulj.tk"
     twitter = "https://twitter.com/_trespaul"
     instagram = "https://instagram.com/_trespaul"
-    github = "https://github.com/_trespaul"
+    github = "https://github.com/trespaul"
+    bandcamp = "https://trespaul.bandcamp.com"
 
-    iconTitles = ["Email", "Twitter", "Instagram", "GitHub"]
+    iconOrder = ["Email", "Twitter", "Bandcamp", "GitHub", "Instagram"]
+
+    twitterSite = "@_trespaul"
+    twitterAuthor = "@_trespaul"
+
+    showPageTitleInTOC = false
 
 
 [markup]
