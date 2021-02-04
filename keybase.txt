@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/trespaul
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paulj.tk
+  * I am trespaul (https://keybase.io/trespaul) on keybase.
+  * I have a public key with fingerprint 8547 C047 4794 05D1 AF8B  A47C 3944 9376 9D46 A76C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120729a699ac80610f593b51e30e189879869904e7132c2cd144393cc4ca034087e0a",
+      "fingerprint": "8547c047479405d1af8ba47c394493769d46a76c",
+      "host": "keybase.io",
+      "key_id": "394493769d46a76c",
+      "kid": "0101dda584d19cafec014e4104dbfd6eb65fd0c3daa7f4ca306c30e0845524a5bea10a",
+      "uid": "e40067147cfcdd3c4a854ce918748719",
+      "username": "trespaul"
+    },
+    "service": {
+      "hostname": "paulj.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1612446379,
+  "expire_in": 157680000,
+  "prev": "79a9e94c3de8a95db1d8fdc31e70741f0887b4c4d3f1150b8a3b183e9fc64876",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUnFIXVUcfjYfPMeaC2NBkuJlQwjRc945955zHEluQ5F0NWLD9s/r3HPOfbs+
+9+7bu1fNVNhWrdJRo8ZYRUNBGARNU8ZsJkirNlijotVGtQQpUgfC21BRF+1c0f86
+/xzO9/u+73zf4Zx+fFMklsf2ftj+ad2F1rwbs3bk1eKVL7sM25OdRnWXkVJrm2qV
+yg8SKVca1QaAcUDijFuMcUGBBYFjMmSbUCGgIGWUMKpnACsCUVzEhYQYI4aEwIID
+hAElCnCjwnDcdFJlM1k3HWhbamIiACaYMAxMCblDba4hxDBmiFhMYosTS2jhYc8P
+FTqczX1V6Xoa04fEWrz/4W/kBlBKblIsIRPcUQJArDAEWNqOtJRtmY4EAknOiaOj
+ImAJ3QhQbJpxzE1bcbiWu23NTmEALAJ1QkdIiQTmuoFQDFKCKYEsJPoqm+ZHlGYH
+WeVneFur0VNhaLTdFSp82LDJOiOctlQGKa3LZL3AE16rRg8HQcavDlVBZyakdSg7
+sW6QsN201G+oFe0q67te2qiGmikCN3SEFoxjbCHCKgz1WsbNqoQbMkxiUaBXeI9q
+15aEcaYY1s3VAcqZKW0oqSMFgooAgqEDKCU2FlgiB0IT2JQjG1KkmCMs3dUywk5H
+0542RzooT2pT302medCWVUbP5nfzUH4kLxZ5ZntZ/lv1k/X1Z6I/DfUNdm98vOhj
+4a+LbC7YtoGcvBqLXFMv7939+n9FM807d/fv/2Z1R7n3g3jzbuEZMePg2rkq9vlc
+tOTtLS+qsr8aT3e/1HRsavHbXO6q8d72ma0+9vty1vzQd3NXWmrfYUWNya6n4kPL
+r0Bipn5faPj5yJ3p2l0fRTN/lo8t5c7/tm/wheOGMz5wjza1fZVs6d20v/uQ9eRq
+6djZ6webSPOFCXe579ml1QefnPtipLD/8onLe+yP+a2yN+af+HcxM1Hz4/CNi1vf
+rztZUlpwfmSmoAz2PF0+VVNU9fDm+Fjn98P3F6ITz382cPsUuLWSa/hlYbrl72N3
+jV9js0up4efOjf4xuVx884MrpQ+/vhQb/Gd0Z3dv+Z7pjqrgEQ==
+=gWNT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trespaul
+
+==================================================================
